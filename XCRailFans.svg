@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="48" height="48">
+  <path fill="#0ff" stroke="#000" stroke-width=".1" d="M0 0h48v48H0z"/>
+  <path d="M24.423 27.376V2.58H38.51V1.56H9.77v1.02H23.4v24.796H8.47v1.02h31.064v-1.02z" font-weight="300" style="line-height:125%;-inkscape-font-specification:'Source Han Sans CN Light'" font-family="Source Han Sans CN" letter-spacing="0" word-spacing="0"/>
+  <path d="M21.898 25.092l-6.38-9.272 6.61-8.985-.86-.63-6.374 8.7-5.953-8.7-.88.602 6.18 8.985-6.81 9.272.86.63 6.578-8.958 6.182 8.957.86-.6zm11.78.63c2.892 0 5.467-1.317 6.898-3.577l-.66-.66c-1.26 2.205-3.408 3.263-6.243 3.263-3.953 0-7.097-3.347-7.097-7.41 0-4.036 3.232-10.16 7.29-10.16 2.492 0 3.945 1.088 4.782 2.06v.573h.766V6.9h-.775v.973c-1.42-1.087-3.05-1.66-4.6-1.66-5.04 0-8.41 6.58-8.41 11.19 0 4.72 3.66 8.326 8.04 8.326z" font-size="32.5" font-weight="300" style="line-height:125%;-inkscape-font-specification:'Comic Neue Angular Light'" font-family="Comic Neue Angular" letter-spacing="0" word-spacing="0"/>
+  <text x="24" y="35.254" style="line-height:100%" font-size="40" font-family="sans-serif" letter-spacing="0" word-spacing="0">
+    <tspan x="24.25" y="35.254" style="line-height:100%;-inkscape-font-specification:'Source Sans Pro';text-align:center" font-size="7.5" font-family="Source Sans Pro" letter-spacing=".5" text-anchor="middle">RᴀɪʟFᴀɴs</tspan><tspan x="24" y="45.701" style="line-height:100%;-inkscape-font-specification:'Source Han Sans CN';text-align:center" font-size="11.25" font-family="Source Han Sans CN" text-anchor="middle">小曹铁粉</tspan>
+  </text>
+</svg>

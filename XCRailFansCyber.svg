@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="48" height="48">
+  <path stroke="#000" stroke-width=".1" d="M0 0h48v48H0z"/>
+  <path fill="#0f0" d="M24.507 34.794V5.077H41.39V3.853H6.948v1.224h16.335v29.717H5.385v1.224h37.23v-1.224z" font-weight="300" style="line-height:125%;-inkscape-font-specification:'Source Han Sans CN Light'" font-family="Source Han Sans CN" letter-spacing="0" word-spacing="0"/>
+  <path fill="#0f0" stroke="#0f0" stroke-width=".719" d="M21.48 32.056l-7.647-11.112 7.922-10.77-1.028-.753-7.64 10.43L5.95 9.42l-1.064.722 7.408 10.77-8.162 11.11 1.03.755 7.882-10.735 7.408 10.735 1.03-.72zm14.12.755c3.465 0 6.552-1.574 8.266-4.283l-.79-.79c-1.51 2.642-4.085 3.91-7.483 3.91-4.738 0-8.505-4.01-8.505-8.88 0-4.838 3.873-12.177 8.737-12.177 2.987 0 4.728 1.302 5.73 2.47v.684h.92v-3.498h-.93v1.166c-1.698-1.302-3.65-1.99-5.508-1.99-6.036 0-10.08 7.89-10.08 13.41 0 5.66 4.39 9.98 9.634 9.98z" letter-spacing="0" stroke-linejoin="round" word-spacing="0" style="line-height:125%;-inkscape-font-specification:'Comic Neue Angular Light'" font-size="32.5" font-family="Comic Neue Angular" font-weight="300"/>
+  <text x="23.749" y="44.236" fill="#0f0" style="line-height:100%" font-size="47.94" font-family="sans-serif" letter-spacing="0" word-spacing="0">
+    <tspan x="24.048" y="44.236" style="line-height:100%;-inkscape-font-specification:'Segoe UI';text-align:center" font-size="10" font-family="Segoe UI" letter-spacing=".599" text-anchor="middle">RᴀɪʟFᴀɴs</tspan>
+  </text>
+</svg>
