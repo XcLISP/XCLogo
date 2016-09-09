@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="48" height="48">
   <path stroke="#000" stroke-width=".1" d="M0 0h48v48H0z"/>
-  <text y="10.796" fill="#0f0" style="line-height:139.99999762%;text-align:start" font-size="47.94" font-family="sans-serif" letter-spacing="0" word-spacing="0">
-    <tspan x="0" y="10.796" style="line-height:139.99999762%;-inkscape-font-specification:'Iosevka Heavy';text-align:start" font-weight="900" font-size="12.5" font-family="Iosevka" letter-spacing=".599">(* 2 11</tspan><tspan x="0" y="28.297" style="line-height:139.99999762%;-inkscape-font-specification:'Iosevka Heavy';text-align:start" font-weight="900" font-size="12.5" font-family="Iosevka" letter-spacing=".599"> 13 467</tspan><tspan x="0" y="45.796" style="line-height:139.99999762%;-inkscape-font-specification:'Iosevka Heavy';text-align:start" font-weight="900" font-size="12.5" font-family="Iosevka" letter-spacing=".599"> 1657)</tspan>
+  <text y="10.796" fill="#0f0" style="line-height:140%;text-align:start" font-size="12.5" font-family="Iosevka" font-weight="900" letter-spacing=".6" word-spacing="0">
+    <tspan x=".5" y="10.796" >(* 3761</tspan><tspan x=".5" y="28.297">(^ 2 2)</tspan><tspan x=".5" y="45.796">313 47)</tspan>
   </text>
 </svg>
